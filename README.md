@@ -19,3 +19,6 @@ El objetivo general de este taller es crear una perspectiva general sobre las te
 3. compute/ecs.yaml
 4. aplications/alb.yaml
 5. aplications/service.yaml
+
+Documentacion De referencia del curso
+https://correo2urledu-my.sharepoint.com/:u:/g/personal/damunguia_correo_url_edu_gt/EYPg2UulXwhNsyA9OSu_p84BgG2j5nItUUVQmo-3KGlmcQ
